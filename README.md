@@ -1,0 +1,1 @@
+This is just a shortcut Homepage for my browser that i built following tips from the GOAT @BachoSeven. It's merely a collection of links of websites that I use often or papers that I'm currently reading.
